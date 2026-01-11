@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kauanmmartins/kauanmmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>👋 Opa, eu sou Kauan Martins</h1>
 
-Here are some ideas to get you started:
+  <p>
+    Desenvolvedor apaixonado por tecnologia, cultura geek e games.<br>
+    Sempre buscando aprender, criar e evoluir!
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <hr width="60%">
+
+  <h2>📫 Contato</h2>
+
+  <p>
+    📬 <strong>Email:</strong><br>
+    <a href="mailto:kauanmmartins06@gmail.com">
+      kauanmmartins06@gmail.com
+    </a>
+  </p>
+
+  <p>
+    📸 <strong>Instagram:</strong><br>
+    <a href="https://www.instagram.com/__kauanmatheus__/" target="_blank">
+      @__kauanmatheus__
+    </a>
+  </p>
+
+  <p>
+    💼 <strong>LinkedIn:</strong><br>
+    <a href="https://www.linkedin.com/in/kauan-matheus-martins-0053ab297" target="_blank">
+      kauan-matheus-martins
+    </a>
+  </p>
+
+  <hr width="60%">
+</div>
