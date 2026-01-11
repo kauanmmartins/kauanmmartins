@@ -1,9 +1,9 @@
 <div align="center">
 
-  <h1>👋 Opa, eu sou Kauan Martins</h1>
+  <h1>👋 Opa, eu sou  o Kauan Martins</h1>
 
   <p>
-    Desenvolvedor apaixonado por tecnologia, cultura geek e games.<br>
+    Um Desenvolvedor apaixonado por tecnologia, cultura geek e games.<br>
     Sempre buscando aprender, criar e evoluir!
   </p>
 
