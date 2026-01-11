@@ -12,7 +12,7 @@
   <h2>📫 Contato</h2>
 
   <p>
-    📬 <strong>Email:</strong><br>
+    📧 <strong>Email:</strong><br>
     <a href="mailto:kauanmmartins06@gmail.com">
       kauanmmartins06@gmail.com
     </a>
