@@ -1,14 +1,15 @@
-<div align="center">
+
 
   <h1>👋 Opa, eu sou  o Kauan Martins</h1>
 
-  <p>
-    Um Desenvolvedor apaixonado por tecnologia, cultura geek e games.<br>
+  <p align="justify">
+    Um Desenvolvedor apaixonado por tecnologia e games.<br>
     Sempre buscando aprender, criar e evoluir!
   </p>
 
-  <hr width="60%">
+  <hr width="47%">
 
+<div align="left">
   <h2>📫 Contato</h2>
 
   <p>
@@ -31,6 +32,5 @@
       kauan-matheus-martins
     </a>
   </p>
-
-  <hr width="60%">
 </div>
+  <hr width="47%">
